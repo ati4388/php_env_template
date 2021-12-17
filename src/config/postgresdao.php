@@ -1,7 +1,5 @@
 <?php
 
-// $dotEnv = Dotenv::createMutable(dirname(__DIR__));
-// $dotEnv->load();
 
 class PostgresDao
 {
