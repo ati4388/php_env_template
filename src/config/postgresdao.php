@@ -5,8 +5,7 @@
 
 class PostgresDao
 {
-//    private $dbHost ="172.16.40.121";
-//    private $dbHost = $_ENV["DB_HOST"];
+
     private $dbHost;
     private $dbPort;
     private $dbName;
